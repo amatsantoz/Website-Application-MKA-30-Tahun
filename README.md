@@ -7,3 +7,8 @@ Website ini dibangun menggunakan Framework CodeIgniter, JQuery, dan Tools Templa
 Bagi yang ingin mencoba dan mengembangkan program ini, bisa di Download di [SINI dalam versi RAR](https://github.com/amatsantoz/Website-HC-Voices/raw/main/projek2.rar).
 
 > #### Untuk menjalankan Program ini gunakan PHP versi 5, karena program ini belum di maintenance ke versi PHP terbaru
+
+
+Berikut Tampilan Websitenya
+
+![Tampilan Login](/Screenshot/2.png)
