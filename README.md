@@ -11,4 +11,4 @@ Bagi yang ingin mencoba dan mengembangkan program ini, bisa di Download di [SINI
 
 Berikut Tampilan Websitenya
 
-![Tampilan Login](/Screenshot/2.png)
+![Tampilan Login](https://github.com/amatsantoz/Website-HC-Voices/blob/main/Screenshot/2.PNG)
